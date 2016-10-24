@@ -1,0 +1,9 @@
+        01  Record-Layout.
+            05 NAME.
+               10 FNAME          PIC X(10).
+               10 LNAME          PIC X(20).
+            05 ADDRESS           PIC X(20).
+            05 SALARY            PIC S9(8)V9(3) COMP-3.
+            05 EMPID             PIC S9(9) COMP.
+
+            
