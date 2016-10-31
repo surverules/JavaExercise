@@ -18,7 +18,5 @@ public class WeekDayTest {
             System.out.println("No of days in: " + weekDay1.getDay() + " in Year: " + weekday.getYear() + " in Month: " + weekDay1.name());
         }
         System.out.println("Loop Ended");
-
-
     }
 }
