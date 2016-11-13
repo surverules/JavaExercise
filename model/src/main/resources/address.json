@@ -1,10 +1,21 @@
 {
   "MYNAME": "SACHIN SURVE",
   "SPOUSE NAME": "Priyanka surve",
-  "ADDRESS": {
+  "ADDRESS":[ {
     "APT_NO": 3016,
     "STREET": "ELLINGTON CIRCLE",
     "CITY": "NASHVILLE",
     "STATE": "TN"
+  },
+    {
+      "APT_NO": 111,
+      "STREET": "DATTANAGER ROAD",
+      "CITY": "PUNE",
+      "STATE": "MH"
+    }
+  ],
+  "EDUCATIONAL_INFO": {
+    "EDUCATION": "MTECH",
+    "COLLEGE": "SVNIT"
   }
 }
